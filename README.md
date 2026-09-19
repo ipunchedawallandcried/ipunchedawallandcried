@@ -13,6 +13,9 @@
   <summary>$\color{#FF0000}{\textbf{\textit{𝘣a𝘴𝘪𝘤𝘴!}}}$</summary>
   <br>
 
+  $\color{#FF0000}{\text{\textbf{\textit{i g0 by c00lkidd andd craig ! nicknamees aree appreeciateedd!!1!}}}}$
+  <br>
+  
   $\color{#FF0000}{\text{\textbf{\textit{I usually usee small typing quirks, all e's andd d's aree dd0ubleedd, and o's are 0!}}}}$
   <br>
   $\color{#FF0000}{\text{\textbf{\textit{0f c0ursee, I d0nt always usee this. sumtimees i typee n0rmally, sumtimees i d0nt.}}}}$
