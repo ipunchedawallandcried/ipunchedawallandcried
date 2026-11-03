@@ -1,47 +1,24 @@
 <div align="center">
 
-<img width="346" height="232" alt="2110" src="https://github.com/user-attachments/assets/2924f891-b11e-4f83-9809-540bbcca2440" />
 <br />
 <img width="374" height="281" alt="2099" src="https://github.com/user-attachments/assets/c902dfb7-e1f7-4ad4-bc2d-3d8b15d3f08a" />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=run-c00lkidd&color=FF0000&label=>+c00l-mini0ns!&base=2013" width="300px" alt="> c00l-mini0ns!">
+  <img src="https://komarev.com/ghpvc/?username=run-c00lkidd&color=267CE3&label=workout+bros&base=2013" width="300px" alt="workout bros">
 </div>
 
 
 <details>
-  <summary>$\color{#FF0000}{\textbf{\textit{𝘣a𝘴𝘪𝘤𝘴!}}}$</summary>
+  <summary>basics</summary>
   <br>
 
-  $\color{#FF0000}{\text{\textbf{\textit{i g0 by c00lkidd andd craig ! nicknamees aree appreeciateedd!!1!}}}}$
+  i go by strider or craig
   <br>
   
-  $\color{#FF0000}{\text{\textbf{\textit{I usually usee small typing quirks, all e's andd d's aree dd0ubleedd, and o's are 0!}}}}$
+  this is just an alt account 
   <br>
-  $\color{#FF0000}{\text{\textbf{\textit{0f c0ursee, I d0nt always usee this. sumtimees i typee n0rmally, sumtimees i d0nt.}}}}$
   
+  i love bam btw
   
-  $\color{#FF0000}{\text{\textbf{\textit{I usee he/it pr0n0uns, but the "it" part is just eexpeerimeental. I much preefeer he/him!}}}}$
-  
-  $\color{#FF0000}{\text{\{\textit{I dd0 N0T supp0rt f0rsakeen, i simply likee thee classic c00lkidd skin voiceelinees.}}}}$
-
-  $\color{#FF0000}{\text{\{\textit{c00lkidd is 0nee 0f my synpaths! hees als0 a c0mf char!}}}}$
-</details>
-
-
-<details>
-  <summary>$\color{#FF0000}{\textbf{\textit{0𝘵𝘩𝘦𝘦𝘳 𝘪𝘯𝘧0!}}}$</summary>
-  <br>
-
-  $\color{#FF0000}{\text{\textbf{\textit{pleeasee dd0nt c+h if im with my frieendds and i dd0nt kn0w y0u!}}}}$
-  <br>
-
-  $\color{#FF0000}{\text{\textbf{\textit{DNI!!}}}}$
-  <br>
-
-  $\color{#FF0000}{\text{\textbf{\textit{basic dni, maga/trump supporters, if you dont state ur age.}}}}$
-  <br>
-
-  $\color{#FF0000}{\text{\textbf{\textit{i bl0ck/hidee freely, eespeecially if y0u upseet mee!}}}}$
 </details>
 </div>
